@@ -2,7 +2,7 @@
 """
 Created on Sun May 24 04:50:38 2020
 
-@author: user
+@author: Ping
 """
 
 #引入各項需要的lib
